@@ -1,8 +1,11 @@
 # Political News Analyzer
 ## Project Objective
-Create a script that takes in a link to a political article and outputs an analysis of the article, consisting of the following components:
+Create a tool available through AWS API that performs automatic analysis of a provided political article, consisting of the following components:
 * Bias (left or right) & sensationalism detection
 * Sentiment Analysis
-* Most likely topic of the article and a visualization showing how the article lexically and content-wise compares to the articles presented in All News dataset 
+* Visualization of how the given article lexically and topically compares to the articles presented in All the news dataset
+
+## Dataset
+All the news dataset from Kaggle - available [here](https://www.kaggle.com/snapcrack/all-the-news).
 
 
